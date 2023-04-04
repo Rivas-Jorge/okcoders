@@ -1,0 +1,30 @@
+Coffee Site Project Readme
+This project was created by me(jorge rivas) as part of the OKCoders boot camp. It is a coffee site designed to showcase the coffee shop's menu, location, and contact information.
+
+The site is live and can be accessed at https://final-project-module-1.zionsquad.repl.co/index.html.
+
+Technologies Used
+
+HTML
+CSS
+Font Awesome Icons
+
+The project consists of four main pages:
+
+Home (index.html)
+Menu (menu.html)
+About Us (about.html)
+Contact Us (contact.html)
+The home page features a hero section with an image and a tagline. The page also has four boxes that link to the menu, about, and contact pages. At the bottom of the page, there is a chatbot container and a footer section with the coffee shop's address and social media links.
+
+The menu page displays the coffee shop's menu items, including hot and cold drinks, breakfast food, and lunch food.
+
+The contact page features a form that visitors can use to send messages to the coffee shop's email address.
+
+Running the Project
+To run the project locally, clone the repository to your computer and open the index.html file in your web browser. or check it out here--->https://final-project-module-1.zionsquad.repl.co/index.html
+
+Contributions
+Contributions and suggestions for improvement are welcome. If you encounter any issues while running the project or have suggestions for improving it, please create an issue on the GitHub repository.
+
+Thank you for checking out this project!
